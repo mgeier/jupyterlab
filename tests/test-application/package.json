@@ -26,7 +26,7 @@
     "simulate-event": "~1.4.0"
   },
   "devDependencies": {
-    "karma": "~1.7.1",
+    "karma": "~6.3.16",
     "rimraf": "~2.6.2",
     "typescript": "~2.6.2"
   }

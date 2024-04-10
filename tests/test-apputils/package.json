@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "@types/chai": "~4.0.10",
-    "karma": "~1.7.1",
+    "karma": "~6.3.16",
     "rimraf": "~2.6.2",
     "typescript": "~2.6.2"
   }
